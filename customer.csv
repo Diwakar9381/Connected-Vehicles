@@ -1,0 +1,11 @@
+FeedbackID,CustomerID,ProductID,Rating,Comment
+F001,C001,P001,5,"Great phone, works smoothly!"
+F002,C002,P003,4,"Good phone but a bit expensive."
+F003,C003,P004,3,"Material quality could be better."
+F004,C004,P007,5,"Best headphones I've owned!"
+F005,C005,P002,4,"Laptop is fast, but battery life is short."
+F006,C006,P006,5,"Perfect running shoes, very comfortable."
+F007,C007,P008,4,"Good backpack, but the zippers could be improved."
+F008,C008,P009,5,"Excellent smartwatch, love all the features!"
+F009,C009,P010,3,"Water bottle is fine, but I expected more insulation."
+F010,C010,P005,4,"Jeans fit perfectly, very stylish."
